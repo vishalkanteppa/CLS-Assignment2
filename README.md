@@ -1,4 +1,4 @@
-**Infectious Disease Modeling**
+#Infectious Disease Modeling**
 
 This repository contains a Jupyter Notebook (`gssa.ipynb`) that implements models for simulating the spread of infectious diseases.
 
